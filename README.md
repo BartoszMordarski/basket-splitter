@@ -45,7 +45,7 @@ Expected result:
  "Courier": ["Espresso Machine", "Garden Chair"]
  }
 ```
-# Running the project
+# Building the project
 To build the project, navigate to the project directory and run the following command:
 ```bash
 mvn clean install
